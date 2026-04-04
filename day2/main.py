@@ -96,3 +96,9 @@ a = ['thai', 'thanh', 'tam']
 # người 4 phải trả = 1/11 * tông tiền = 
 # người 5 phải trả = 2/11 * tông tiền = 
 
+### gợi ý dùng for dể in ra
+# lista = [1,2,5,1,2]
+
+# for a in lista:
+#     print(a)
+# lista.
