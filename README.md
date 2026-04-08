@@ -23,15 +23,7 @@
 | 19 | [Xử Lý File](./19_Day_File_handling/19_file_handling.md) |
 | 20 | [Quản Lý Gói Python](./20_Day_Python_package_manager/20_python_package_manager.md) |
 | 21 | [Lớp và Đối Tượng](./21_Day_Classes_and_objects/21_classes_and_objects.md) |
-| 22 | [Web Scraping](./22_Day_Web_scraping/22_web_scraping.md) |
-| 23 | [Môi Trường Ảo](./23_Day_Virtual_environment/23_virtual_environment.md) |
-| 24 | [Thống Kê](./24_Day_Statistics/24_statistics.md) |
-| 25 | [Pandas](./25_Day_Pandas/25_pandas.md) |
-| 26 | [Python Web](./26_Day_Python_web/26_python_web.md) |
-| 27 | [Python với MongoDB](./27_Day_Python_with_mongodb/27_python_with_mongodb.md) |
-| 28 | [API](./28_Day_API/28_API.md) |
-| 29 | [Xây Dựng API](./29_Day_Building_API/29_building_API.md) |
-| 30 | [Tổng Kết](./30_Day_Conclusions/30_conclusions.md) |
+
 
 <small>🧡🧡🧡 CHÚC MỪNG LẬP TRÌNH 🧡🧡🧡</small>
 
