@@ -1,5 +1,5 @@
 # khai bao
-tap_hop_a = set()
+# tap_hop_a = set()
 
 # tap_hop = {1,2,9,10} # so, chu, dic, list
 
