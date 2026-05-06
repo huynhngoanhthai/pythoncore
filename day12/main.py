@@ -108,3 +108,7 @@ for i in range(5):
 
 # password manh là password có ký tự không lập lại độ dai là 8 ký tự
 # RT21:ak(
+
+import module24
+
+module24.add

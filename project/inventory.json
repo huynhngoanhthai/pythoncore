@@ -1,0 +1,28 @@
+{
+  "products": {
+    "001": {
+      "name": "tula",
+      "unit": "cai",
+      "min_stock": 10,
+      "quantity": 0
+    },
+    "041": {
+      "name": "san pham a",
+      "unit": "cai",
+      "min_stock": 0,
+      "quantity": 10
+    }
+  },
+  "transactions": [
+    {
+      "type": "import",
+      "code": "041",
+      "name": "san pham a",
+      "quantity": 10,
+      "price": 1000.0,
+      "supplier": "VN",
+      "note": "",
+      "date": "2026-05-06 16:00:01"
+    }
+  ]
+}
