@@ -1,5 +1,5 @@
 from data import load_data
-from product import add_product
+from product import add_product,del_product,update_product
 from inventory import import_product, export_product, view_inventory
 
 def show_menu():
@@ -32,6 +32,6 @@ while True:
         print("Cảm ơn bạn đã sử dụng chương trình!")
         break
     else:
-        print("Lựa chọn không hợp lệ. Vui lòng chọn từ 1 đến 8!")
+        print("Lựa chọn không hợp lệ. Vui lòng chọn từ 1 đến 5!")
     
     input("\nNhấn Enter để tiếp tục...")

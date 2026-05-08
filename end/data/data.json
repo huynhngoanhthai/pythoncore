@@ -1,9 +1,34 @@
 {
   "products": [
     {
-      "code": "NV02",
+      "id": 1,
+      "code": "SP01",
       "name": "Banh mi"
     }
   ],
-  "transactions": []
+  "transactions": [
+    {
+      "id": 0,
+      "type": "IN",
+      "timeAt": "20:29 08/05/2026",
+      "quantity": 10,
+      "productId": 1
+    },
+    {
+      "id": 1,
+      "type": "IN",
+      "timeAt": "20:30 08/05/2026",
+      "quantity": 20,
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "type": "OUT",
+      "timeAt": "20:32 08/05/2026",
+      "quantity": 10,
+      "productId": 1
+    }
+  ],
+  "productMaxId": 1,
+  "transactionMaxId": 2
 }
