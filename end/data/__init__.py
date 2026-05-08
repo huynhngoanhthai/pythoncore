@@ -2,6 +2,7 @@ import json
 import os
 
 DATA_FILE = "data/data.json"
+
 def load_data():
     """Tải dữ liệu từ file JSON"""
     if os.path.exists(DATA_FILE):
